@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://https://fangkuaiyuanye.online/sitemap.xml
+Sitemap: https://fangkuaiyuanye.online/sitemap.xml
